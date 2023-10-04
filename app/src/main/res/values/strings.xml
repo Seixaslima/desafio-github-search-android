@@ -2,4 +2,6 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="github_user_key">githubUser</string>
+    <string name="shareButton">Botão de compartilhar</string>
 </resources>
